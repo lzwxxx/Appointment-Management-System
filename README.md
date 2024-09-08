@@ -42,5 +42,5 @@ After doing this, the application should open without issue. There are some init
 - Password: Secure@1
 
 **User accounts**
-1. - Email: test@test.com
-   - Password: Secure@2
+- Email: test@test.com
+- Password: Secure@2
